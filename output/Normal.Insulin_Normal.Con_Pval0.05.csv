@@ -1,0 +1,14 @@
+geneSymbol,geneName,log2FC,AveExpr,P.Value
+UNC45A,unc-45 myosin chaperone A,-0.353,4.097,0.006
+PHACTR3,phosphatase and actin regulator 3,-0.351,3.956,0.021
+SLC22A2,"solute carrier family 22 (organic cation transporter), member 2",-0.211,4.329,0.025
+MYOD1,myogenic differentiation 1,-0.288,4.002,0.025
+NOSTRIN,nitric oxide synthase trafficking,0.232,4.121,0.027
+DLX3,distal-less homeobox 3,0.253,4.198,0.039
+ESF1,ESF1 nucleolar pre-rRNA processing protein homolog,0.260,3.925,0.039
+GRIN3B,"glutamate receptor, ionotropic, N-methyl-D-aspartate 3B",0.272,3.980,0.043
+ADAMTS20,"ADAM metallopeptidase with thrombospondin type 1 motif, 20",-0.279,3.858,0.044
+TSPAN6,tetraspanin 6,0.320,3.878,0.047
+COLQ,collagen-like tail subunit (single strand of homotrimer) of asymmetric acetylcholinesterase,-0.208,4.408,0.047
+GPD2,glycerol-3-phosphate dehydrogenase 2 (mitochondrial),0.238,4.114,0.049
+NR4A1,"nuclear receptor subfamily 4, group A, member 1",0.246,4.000,0.050

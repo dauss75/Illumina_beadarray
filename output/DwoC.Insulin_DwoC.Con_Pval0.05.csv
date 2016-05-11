@@ -1,0 +1,5 @@
+geneSymbol,geneName,logFC,AveExpr,P.Value,adj.P.Val
+DPEP3,dipeptidase 3,0.316447596,3.766555532,0.03986081,0.999988073
+GCFC2,GC-rich sequence DNA-binding factor 2,-0.222387373,4.325141328,0.046557405,0.999988073
+RPE,ribulose-5-phosphate-3-epimerase,0.274357517,3.753874392,0.047696887,0.999988073
+CFAP52,cilia and flagella associated protein 52,0.267854272,3.863815963,0.048445655,0.999988073
